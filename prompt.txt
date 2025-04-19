@@ -1,0 +1,1 @@
+Simulates a Rock-Paper-Scissors game between two players for a given number of rounds. Write the script to a .py file. Run the script and write the the outcome to a json file.
